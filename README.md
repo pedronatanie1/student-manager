@@ -28,7 +28,7 @@ Feature complete for the project specification. Data is held in memory, so it re
 
 ## How to run
 
-    git clone https://github.com/pedronatanie1/StudentManager.git
+    git clone https://github.com/pedronatanie1/student-manager.git
     cd StudentManager
     dotnet run --project StudentManager
 
