@@ -1,4 +1,4 @@
-#student-manager
+# Student Manager
 
 Console-based student management system in C#, built to practise OOP, validation and LINQ.
 
